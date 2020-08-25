@@ -1,0 +1,1 @@
+Calcuate area of triangle and square and print it out to the terminal
