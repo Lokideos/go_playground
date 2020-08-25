@@ -1,0 +1,1 @@
+Read file and write output to the Terminal
