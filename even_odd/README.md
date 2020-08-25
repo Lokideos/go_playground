@@ -1,0 +1,1 @@
+Program for finding out if given number is even or odd written in Go.
