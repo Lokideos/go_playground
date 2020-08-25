@@ -1,0 +1,1 @@
+Playground for maps in GO lang
